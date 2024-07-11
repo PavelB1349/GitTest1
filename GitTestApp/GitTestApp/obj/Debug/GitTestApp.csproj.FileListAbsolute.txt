@@ -1,0 +1,7 @@
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\bin\Debug\GitTestApp.exe.config
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\bin\Debug\GitTestApp.exe
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\bin\Debug\GitTestApp.pdb
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\obj\Debug\GitTestApp.csproj.AssemblyReference.cache
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\obj\Debug\GitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\obj\Debug\GitTestApp.exe
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\GitTest\GitTestApp\GitTestApp\obj\Debug\GitTestApp.pdb
