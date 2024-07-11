@@ -15,6 +15,9 @@ namespace GitTestApp
             var c = 12;
 
             Console.WriteLine($"Result = {a + b + c}");
+
+            Console.WriteLine("После коммита");
+            Console.WriteLine("newWork");
             Console.ReadKey();
         }
     }
